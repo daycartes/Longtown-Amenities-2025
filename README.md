@@ -1,1 +1,2 @@
 # Longtown-Amenities-2025
+This app gives a list of facilities available in Longtown, a neighbourhood of some 2000 people, which is situated in the North- West of England. By scrolling through you will find all the most important amenities designed to give you quick access to the information you seek. By clicking on an amenity you can find out more about it as well as contact help directly by phone, text and email. There are also links to the website and facebook page if there is one.
